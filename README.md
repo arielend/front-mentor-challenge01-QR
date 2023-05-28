@@ -30,8 +30,8 @@ Agregar capturas de pantalla
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link al repositorio](https://github.com/arielend/front-mentor-challenge01-QR.git)
+- Live Site URL: [Link a Github Pages](https://arielend.github.io/front-mentor-challenge01-QR/)
 
 
 ## My process
