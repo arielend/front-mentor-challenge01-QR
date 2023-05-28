@@ -1,0 +1,28 @@
+@import '../mixins/mixins';
+@import '../var/variables';
+
+html{
+    font-family: 'Outfit', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h4{
+    @include h-font;
+    text-align: center;    
+}
+
+p{
+    @include p-font;
+    text-align: center;
+}
+
+.contenedor-amplio{
+    width: 100%;
+    position: relative;
+
+    background: $light-gray;
+    min-height: 100vh;
+}
